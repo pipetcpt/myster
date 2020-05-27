@@ -12,10 +12,10 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 ## 일정
 
-|차수|날짜|참석인원|링크|
+|차수|날짜|장소|참석인원|
 |---|---|---|---|
-|1|2020-04-21|약 20명| [Remotemeeting 화상회의 참석](https://www.remotemeeting.com/reservation/share/2c908ad6715f883301719a6bdb2a6689) |
-|2|2020-06말 예정|TBD|Remotemeeting 화상회의 예정|
+|1|2020-04-21|[Remotemeeting 화상회의 참석](https://www.remotemeeting.com/reservation/share/2c908ad6715f883301719a6bdb2a6689) |약 20명| 
+|2|2020-06말 예정|Remotemeeting 화상회의 예정|TBD|
 |3|TBD|TBD|TBD|
 |4|TBD|TBD|TBD|
 
@@ -26,3 +26,5 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 [<img src="./assets/myster-poster-2020-04.png" height="200"/>](./assets/myster-poster-2020-04.png)
 [<img src="./assets/myster-photo-2020-04.jpg" height="200"/>](./assets/myster-photo-2020-04.jpg)
 
+- 발표 1: 정유성 (서울대) "Rationalized model selection in physiologically-based pharmacokinetic modeling: Theoretical basis on the rate of tissue distribution	"
+- 발표 2: 임동석 (가톨릭대) "Debate on Vz and Vdss"
