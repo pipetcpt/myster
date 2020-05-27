@@ -1,6 +1,9 @@
 # MYSTER
 
+![](./assets/header.png)
+
 Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 연구하는 젊은 과학자들의 학문적 교류와 연구 활성화를 위한 정기적 집담회입니다. 
+
 
 ## 소개
 
