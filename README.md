@@ -31,3 +31,4 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 - 발표 1: 정유성 (서울대) "Rationalized model selection in physiologically-based pharmacokinetic modeling: Theoretical basis on the rate of tissue distribution	"
 - 발표 2: 임동석 (가톨릭대) "Debate on Vz and Vdss"
+- 기타: [논문 공유](https://github.com/pipetcpt/myster/issues/2)
