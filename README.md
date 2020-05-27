@@ -23,6 +23,6 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 #### 2020-04
 
-[<img src="./assets/myster-poster-2020-04.png" height="200"/>](./myster-poster-2020-04.png)
-[<img src="./assets/myster-photo-2020-04.jpg" height="200"/>](./myster-photo-2020-04.jpg)
+[<img src="./assets/myster-poster-2020-04.png" height="200"/>](./assets/myster-poster-2020-04.png)
+[<img src="./assets/myster-photo-2020-04.jpg" height="200"/>](./assets/myster-photo-2020-04.jpg)
 
