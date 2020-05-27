@@ -6,11 +6,11 @@
 - 시간은 오후 4시 시작, 연자는 1-2명으로 총 길이는 1.5-2시간 정도 진행합니다.
 
 |차수|날짜|참석인원|링크|
-|---|---|---|
-|1|2020-04-21|약 20명 (가톨릭대, 서울대, 울산대, 연세대, Qfitter 등)|[화상회의 참석](https://www.remotemeeting.com/reservation/share/2c908ad6715f883301719a6bdb2a6689)|
-|2|6월 말 예정|||
-|3|TBD|||
-|4|TBD|||
+|---|---|---|---|
+|1|2020-04-21|약 20명 (가톨릭대, 서울대, 울산대, 연세대, Qfitter 등)| [화상회의 참석](https://www.remotemeeting.com/reservation/share/2c908ad6715f883301719a6bdb2a6689) |
+|2|6월 말 예정|TBD|Remotemeeting 화상회의 예정|
+|3|TBD|TBD|TBD|
+|4|TBD|TBD|TBD|
 
 #### 2020-04
 
