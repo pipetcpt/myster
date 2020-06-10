@@ -17,8 +17,8 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 |차수|날짜|장소|참석인원|
 |---|---|---|---|
-|1|2020-04-21|[Remotemeeting 화상회의 참석](https://www.remotemeeting.com/reservation/share/2c908ad6715f883301719a6bdb2a6689) |약 20명| 
-|2|2020-06말 예정|Remotemeeting 화상회의 예정|TBD|
+|1|2020-04-21 Tue|[Remotemeeting 화상회의](https://www.remotemeeting.com/reservation/share/2c908ad6715f883301719a6bdb2a6689) |약 20명| 
+|2|2020-06-30 Tue|[Zoom 화상회의](https://snu-ac-kr.zoom.us/j/3614071447)|TBD|
 |3|TBD|TBD|TBD|
 |4|TBD|TBD|TBD|
 
@@ -32,3 +32,8 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 - 발표 1: 정유성 (서울대) "Rationalized model selection in physiologically-based pharmacokinetic modeling: Theoretical basis on the rate of tissue distribution	"
 - 발표 2: 임동석 (가톨릭대) "Debate on Vz and Vdss"
 - 기타: [논문 공유](https://github.com/pipetcpt/myster/issues/2)
+
+#### 2020-06 
+
+- 발표 1: TBD
+- 발표 2: 배균섭 (울산대, 서울아산병원) "sasLM R package and bioequivalence data analysis"
