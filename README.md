@@ -7,7 +7,6 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 ## 소개
 
-
 - 누구에게나 열려 있는 모임입니다. [가입인사](https://github.com/pipetcpt/myster/issues/1)를 남겨주시면 감사하겠습니다. (현재 참석자 소속 기관: 가톨릭대, 서울대, 서울아산병원, 울산대, 연세대, Qfitter 등)
 - COVID-19 으로 인해 2020년 당분간은 화상회의로 진행합니다.
 - 이후에는 각 기관에서 오프라인 미팅에 매번 참석하는 것을 원칙으로 하고, 화상회의는 사정상 못오는 분들을 위한 차선의 선택으로 했으면 합니다. 
@@ -35,5 +34,5 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 #### 2020-06 
 
-- 발표 1: TBD
+- 발표 1: 이우열 (연세대) "Methodological aspect of TMDD modeling for the first-in-human dose extrapolation from preclinical data"
 - 발표 2: 배균섭 (울산대, 서울아산병원) "sasLM R package and bioequivalence data analysis"
