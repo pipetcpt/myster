@@ -34,5 +34,7 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 #### 2020-06 
 
+[<img src="./assets/myster-poster-2020-06.png" height="200"/>](./assets/myster-poster-2020-06.png)
+
 - 발표 1: 이우열 (연세대) "Methodological aspect of TMDD modeling for the first-in-human dose extrapolation from preclinical data"
 - 발표 2: 배균섭 (울산대, 서울아산병원) "sasLM R package and bioequivalence data analysis"
