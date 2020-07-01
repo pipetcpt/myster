@@ -4,7 +4,6 @@
 
 Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 연구하는 젊은 과학자들의 학문적 교류와 연구 활성화를 위한 정기적 집담회입니다. 
 
-
 ## 소개
 
 - 누구에게나 열려 있는 모임입니다. [가입인사](https://github.com/pipetcpt/myster/issues/1)를 남겨주시면 감사하겠습니다. (현재 참석자 소속 기관: 가톨릭대, 서울대, 서울아산병원, 울산대, 연세대, Qfitter 등)
@@ -17,8 +16,8 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 |차수|날짜|장소|참석인원|
 |---|---|---|---|
 |1|2020-04-21 Tue|[Remotemeeting 화상회의](https://www.remotemeeting.com/reservation/share/2c908ad6715f883301719a6bdb2a6689) |약 20명| 
-|2|2020-06-30 Tue|[Zoom 화상회의](https://snu-ac-kr.zoom.us/j/3614071447)|TBD|
-|3|TBD|TBD|TBD|
+|2|2020-06-30 Tue|[Zoom 화상회의](https://snu-ac-kr.zoom.us/j/3614071447)|약 20명|
+|3|2020-08-25 Tue|Zoom 화상회의|TBD|
 |4|TBD|TBD|TBD|
 
 ## 미팅 기록
