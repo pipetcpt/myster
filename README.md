@@ -17,7 +17,7 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 |---|---|---|---|
 |1|2020-04-21 Tue|[Remotemeeting 화상회의](https://www.remotemeeting.com/reservation/share/2c908ad6715f883301719a6bdb2a6689) |약 20명| 
 |2|2020-06-30 Tue|[Zoom 화상회의](https://snu-ac-kr.zoom.us/j/3614071447)|약 20명|
-|3|2020-08-25 Tue|Zoom 화상회의|TBD|
+|3|2022-06-08 Wed|오프라인 모임 (서울대학교 약학대학) |TBD|
 |4|TBD|TBD|TBD|
 
 ## 미팅 기록
