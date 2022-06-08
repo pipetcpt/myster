@@ -40,7 +40,7 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 #### 2022-06
 
-<img height="200" alt="image" src="https://user-images.githubusercontent.com/6946821/172524587-7f3e5321-210d-4b46-9281-ca47a14cef4a.png"
+<img height="200" alt="image" src="https://user-images.githubusercontent.com/6946821/172524587-7f3e5321-210d-4b46-9281-ca47a14cef4a.png">
 
 - 발표 1: 배형찬 (서울약대) "Modeling of equilibrium dialysis for improved estimation of plasma protein binding of drugs and its application to other matrices"
 - 발표 2: 차준석 (연세의대) "오토파지 신호전달경로 모델링"
