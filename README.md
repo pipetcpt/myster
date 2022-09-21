@@ -18,7 +18,7 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 |1|2020-04-21 Tue|[Remotemeeting 화상회의](https://www.remotemeeting.com/reservation/share/2c908ad6715f883301719a6bdb2a6689) |약 20명| 
 |2|2020-06-30 Tue|[Zoom 화상회의](https://snu-ac-kr.zoom.us/j/3614071447)|약 20명|
 |3|2022-06-08 Wed|대면 모임 (서울대학교 약학대학 하나홀) & [Zoom](http://bit.ly/myster2022) | 약 30명|
-|4|2022-08|TBD|TBD|
+|4|2022-09-22 Wed |대면 모임 (가톨릭대학교 성의교정 옴니버스파크 L003) & [Zoom](http://bit.ly/myster2022) | 약 25명 |
 |5|2022-10|TBD|TBD|
 |6|2022-12|TBD|TBD|
 
@@ -47,3 +47,8 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 - 발표 1: 배형찬 (서울약대) "Modeling of equilibrium dialysis for improved estimation of plasma protein binding of drugs and its application to other matrices"
 - 발표 2: 차준석 (연세의대) "오토파지 신호전달경로 모델링"
 
+#### 2022-09
+
+[<img height="200" alt="image" src="https://user-images.githubusercontent.com/6946821/191628303-46bfe6be-bcfe-4d4c-9bcd-9bba336916ec.png">](https://user-images.githubusercontent.com/6946821/191628303-46bfe6be-bcfe-4d4c-9bcd-9bba336916ec.png)
+
+- 발표 1: 채수인 (가톨릭의대) "Tips on Use of Correct Verb Tenses for Non-Native English-speaking Researchers in Scientific Paper"
