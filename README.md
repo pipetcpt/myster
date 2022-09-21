@@ -49,6 +49,7 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 #### 2022-09
 
+[<img height="200" alt="image" src="https://user-images.githubusercontent.com/6946821/191628522-56b3f79f-089d-49fb-870f-bf32c0feed84.png">](https://user-images.githubusercontent.com/6946821/191628522-56b3f79f-089d-49fb-870f-bf32c0feed84.png)
 [<img height="200" alt="image" src="https://user-images.githubusercontent.com/6946821/191628303-46bfe6be-bcfe-4d4c-9bcd-9bba336916ec.png">](https://user-images.githubusercontent.com/6946821/191628303-46bfe6be-bcfe-4d4c-9bcd-9bba336916ec.png)
 
 - 발표 1: 채수인 (가톨릭의대) "Tips on Use of Correct Verb Tenses for Non-Native English-speaking Researchers in Scientific Paper"
