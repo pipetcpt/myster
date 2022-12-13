@@ -19,8 +19,8 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 |2|2020-06-30 Tue|[Zoom 화상회의](https://snu-ac-kr.zoom.us/j/3614071447)|약 20명|
 |3|2022-06-08 Wed|대면 모임 (서울대학교 약학대학 하나홀) & [Zoom](http://bit.ly/myster2022) | 약 30명|
 |4|2022-09-22 Wed |대면 모임 (가톨릭대학교 성의교정 옴니버스파크 L003) & [Zoom](http://bit.ly/myster2022) | 약 25명 |
-|5|2022-10|TBD|TBD|
-|6|2022-12|TBD|TBD|
+|5|2022-12-12 Mon |대면 모임 (서울아산병원 동관 7세미나실) & [Zoom](http://bit.ly/myster2022)| 약 20명|
+|6|2023-03|연세대|TBD|
 
 ## 미팅 기록
 
@@ -52,4 +52,13 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 [<img height="200" alt="image" src="https://user-images.githubusercontent.com/6946821/191628522-56b3f79f-089d-49fb-870f-bf32c0feed84.png">](https://user-images.githubusercontent.com/6946821/191628522-56b3f79f-089d-49fb-870f-bf32c0feed84.png)
 [<img height="200" alt="image" src="https://user-images.githubusercontent.com/6946821/191628303-46bfe6be-bcfe-4d4c-9bcd-9bba336916ec.png">](https://user-images.githubusercontent.com/6946821/191628303-46bfe6be-bcfe-4d4c-9bcd-9bba336916ec.png)
 
-- 발표 1: 채수인 (가톨릭의대) "Tips on Use of Correct Verb Tenses for Non-Native English-speaking Researchers in Scientific Paper"
+- 발표 1: 최수인 (가톨릭의대) "Tips on Use of Correct Verb Tenses for Non-Native English-speaking Researchers in Scientific Paper"
+
+
+#### 2022-12
+
+[<img height="200" alt="image" src="https://user-images.githubusercontent.com/6946821/207219915-bf36bc66-9788-42a9-b84f-07378bdb3afc.png">](https://user-images.githubusercontent.com/6946821/207219915-bf36bc66-9788-42a9-b84f-07378bdb3afc.png)
+[<img height="200" alt="image" src="https://user-images.githubusercontent.com/6946821/207220052-a91e2b20-aa8c-4856-a7ce-29f1643e6a85.png">](https://user-images.githubusercontent.com/6946821/207220052-a91e2b20-aa8c-4856-a7ce-29f1643e6a85.png)
+
+- 발표 1: 배균섭 (울산의대) "2x2 Table 분석"
+- 발표 2: 임동석 (가톨릭의대) "학회에서 들을 수 없는 교육과 창업 이야기"
