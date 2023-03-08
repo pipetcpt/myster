@@ -15,12 +15,12 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 |차수|날짜|장소|참석인원|
 |---|---|---|---|
-|1|2020-04-21 Tue|[Remotemeeting 화상회의](https://www.remotemeeting.com/reservation/share/2c908ad6715f883301719a6bdb2a6689) |약 20명| 
-|2|2020-06-30 Tue|[Zoom 화상회의](https://snu-ac-kr.zoom.us/j/3614071447)|약 20명|
-|3|2022-06-08 Wed|대면 모임 (서울대학교 약학대학 하나홀) & [Zoom](http://bit.ly/myster2022) | 약 30명|
+|1|2020-04-21 Tue|[Remotemeeting 화상회의](https://www.remotemeeting.com/reservation/share/2c908ad6715f883301719a6bdb2a6689) |약 20명 | 
+|2|2020-06-30 Tue|[Zoom 화상회의](https://snu-ac-kr.zoom.us/j/3614071447)|약 20명 |
+|3|2022-06-08 Wed|대면 모임 (서울대학교 약학대학 하나홀) & [Zoom](http://bit.ly/myster2022) | 약 30명 |
 |4|2022-09-22 Wed |대면 모임 (가톨릭대학교 성의교정 옴니버스파크 L003) & [Zoom](http://bit.ly/myster2022) | 약 25명 |
-|5|2022-12-12 Mon |대면 모임 (서울아산병원 동관 7세미나실) & [Zoom](http://bit.ly/myster2022)| 약 20명|
-|6|2023-03|연세대|TBD|
+|5|2022-12-12 Mon |대면 모임 (서울아산병원 동관 7세미나실) & [Zoom](http://bit.ly/myster2022)| 약 20명 |
+|6|2023-03-29 Wed |대면 모임 (연세의대, 신촌) | TBD |
 
 ## 미팅 기록
 
@@ -62,3 +62,7 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 - 발표 1: 배균섭 (울산의대) "2x2 Table 분석"
 - 발표 2: 임동석 (가톨릭의대) "학회에서 들을 수 없는 교육과 창업 이야기"
+
+#### 2023-03
+
+TBD
