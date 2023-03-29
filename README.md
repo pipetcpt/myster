@@ -71,5 +71,3 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 - 발표 1: 배균섭 (울산의대) "Likelihood Interval"
 
-
-[<img src="./assets/myster-poster-2020-06.png" height="200"/>](./assets/myster-poster-2020-06.png)
