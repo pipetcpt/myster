@@ -66,5 +66,10 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 #### 2023-03
 
 [<img height="200" alt="image" src="https://user-images.githubusercontent.com/6946821/228450589-7153af45-4c77-4912-a759-54a39010e178.png">](https://user-images.githubusercontent.com/6946821/228450589-7153af45-4c77-4912-a759-54a39010e178.png)
+[<img height="200" alt="image" src="https://user-images.githubusercontent.com/6946821/228477459-0747ce5b-194b-4dc8-b3b3-f3a5805bc649.png">](https://user-images.githubusercontent.com/6946821/228477459-0747ce5b-194b-4dc8-b3b3-f3a5805bc649.png)
+
 
 - 발표 1: 배균섭 (울산의대) "Likelihood Interval"
+
+
+[<img src="./assets/myster-poster-2020-06.png" height="200"/>](./assets/myster-poster-2020-06.png)
