@@ -21,6 +21,8 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 |4|2022-09-22 Wed |대면 모임 (가톨릭대학교 성의교정 옴니버스파크 L003) & [Zoom](http://bit.ly/myster2022) | 약 25명 |
 |5|2022-12-12 Mon |대면 모임 (서울아산병원 동관 7세미나실) & [Zoom](http://bit.ly/myster2022)| 약 20명 |
 |6|2023-03-29 Wed |대면 모임 (세브란스병원 에비슨 의생명연구센터(ABMRC) 1층 세미나실) | 약 25명 |
+|7|2023-11-24 Fri |대면 모임 (가톨릭대학교 성의교정 옴니버스파크 로비층 L003) | 약 25명 |
+
 
 ## 미팅 기록
 
@@ -71,3 +73,6 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 - 발표 1: 배균섭 (울산의대) "Likelihood Interval"
 
+#### 2023-11
+
+TBD
