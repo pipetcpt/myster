@@ -21,7 +21,7 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 |4|2022-09-22 Wed |대면 모임 (가톨릭대학교 성의교정 옴니버스파크 L003) & [Zoom](http://bit.ly/myster2022) | 약 25명 |
 |5|2022-12-12 Mon |대면 모임 (서울아산병원 동관 7세미나실) & [Zoom](http://bit.ly/myster2022)| 약 20명 |
 |6|2023-03-29 Wed |대면 모임 (세브란스병원 에비슨 의생명연구센터(ABMRC) 1층 세미나실) | 약 25명 |
-|7|2023-11-24 Fri |대면 모임 (가톨릭대학교 성의교정 옴니버스파크 로비층 L003) | 약 25명 |
+|7|2023-11-24 Fri |대면 모임 (가톨릭대학교 성의교정 옴니버스파크 로비층 L004) | 약 25명 |
 
 
 ## 미팅 기록
@@ -75,5 +75,7 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 #### 2023-11
 
-![](assets/myster-banner-2023-11.png)
+[<img height="200" alt="image" src="https://github.com/pipetcpt/myster/assets/6946821/faf66248-f91e-4148-bdbd-e320f5b03d37">](https://github.com/pipetcpt/myster/assets/6946821/faf66248-f91e-4148-bdbd-e320f5b03d37)
 
+- 발표 1: 한성필 (가톨릭의대) "2023 ACoP14 (American Conference on Pharmacometrics): 학회 및 워크샵 주요 내용"
+- 발표 2: 최수인 (가톨릭의대) "Modeling of Microphysiological Systems to Simulate Human Pharmacokinetics"
