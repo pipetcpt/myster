@@ -79,3 +79,4 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 
 - 발표 1: 한성필 (가톨릭의대) "2023 ACoP14 (American Conference on Pharmacometrics): 학회 및 워크샵 주요 내용"
 - 발표 2: 최수인 (가톨릭의대) "Modeling of Microphysiological Systems to Simulate Human Pharmacokinetics"
+- http://bit.ly/acop2023materials
