@@ -22,7 +22,7 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 |5|2022-12-12 Mon |대면 모임 (서울아산병원 동관 7세미나실) & [Zoom](http://bit.ly/myster2022)| 약 20명 |
 |6|2023-03-29 Wed |대면 모임 (세브란스병원 에비슨 의생명연구센터(ABMRC) 1층 세미나실) | 약 25명 |
 |7|2023-11-24 Fri |대면 모임 (가톨릭대학교 성의교정 옴니버스파크 로비층 L004) | 약 25명 |
-|8|2024-12-05 Thu |대면 모임 (TBD) | 약 25명 |
+|8|2024-12-05 Thu |대면 모임 (호텔페이토강남 2층 페이토홀홀) | 약 25명 |
 
 
 ## 미팅 기록
@@ -81,3 +81,11 @@ Multidisciplinary Young Scientists Talk Exposure-Response의 약자로 PK-PD를 
 - 발표 1: 한성필 (가톨릭의대) "2023 ACoP14 (American Conference on Pharmacometrics): 학회 및 워크샵 주요 내용"
 - 발표 2: 최수인 (가톨릭의대) "Modeling of Microphysiological Systems to Simulate Human Pharmacokinetics"
 - http://bit.ly/acop2023materials
+
+#### 2024-12
+
+- 계량약리학에서의 LLM의 활용	차화준 (가톨릭의대/연구원)
+- Phage cocktail PK/PD modeling	차준석 (연세의대/연구원)
+- PopPKPD Modeling of G-CSF to Optimize Dosing and Timing for CD34+ Cell Harvesting	강욱 (연세의대/연구원)
+- 임상시험 분야 LLM의 활용과 관련 연구	최규연 (가톨릭의대/연구원)
+- ACoP 2024 학회참관기	강주은 (가톨릭의대/연구원)
